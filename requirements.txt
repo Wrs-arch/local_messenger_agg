@@ -1,0 +1,43 @@
+# AI Email Analyzer - �����������
+# �������� ���������� ��� ������� ����� � ��
+
+# Google AI � Gemini
+google-generativeai>=0.3.0
+
+# Google APIs ��� Gmail
+google-api-python-client>=2.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+
+# ���������� ����������� ���������
+python-dotenv>=1.0.0
+python-decouple>=3.8
+
+# ���������� ��������� ���������
+charset-normalizer>=3.0.0
+
+# HTML парсинг
+beautifulsoup4>=4.12.0
+
+# ��������� (��� ������ ������ Python)
+typing-extensions>=4.0.0
+
+# �������������� ����������� ��� ���������� ������
+requests>=2.25.0
+urllib3>=1.26.0
+certifi>=2021.0.0
+
+# ��� ������ � JSON � HTTP
+httplib2>=0.20.0
+
+# ��� ������������ (�����������)
+#pytest>=7.0.0
+#pytest-cov>=4.0.0
+
+# ��� ������������ (�����������)
+#sphinx>=5.0.0
+#sphinx-rtd-theme>=1.0.0
+
+# ��� ������ � .exe (�����������)
+pyinstaller>=5.0.0
